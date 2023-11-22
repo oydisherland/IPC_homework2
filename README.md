@@ -14,13 +14,13 @@ How to run the code
 
 I ran task1.1.c on my computer in the terminal using the following steps:
 - gcc -o task1.1 task1.1.c
-- ./task1.1
+- ./task1.1<br>
 NB my compiler is Apple clang version 14.0.3, and I have an Apple silicon architecure. 
 
 In order to run task1.2.pbs the working directory writen in the file must be editied. This is line 35. 
 I ran task1.2.c on the cluster using the following steps: 
 - module mpich -3.2 
-- qsub task1.2.pbs 
+- qsub task1.2.pbs<br>
 a task1.2.o file is now created. At the bottom of this file the results of the calcualtion could be found. 
 
 
@@ -38,12 +38,12 @@ How to run the code
 
 I ran task2.1 on my computer in the terminal using the following steps:
 - gcc -o task2.1 task2.1.c
-- ./task2.1
+- ./task2.1<br>
 NB my compiler is Apple clang version 14.0.3, and I have an Apple silicon architecure. 
 
 In order to run task1.2.pbs the working directory writen in the file must be editied. This is line 35.
 I ran task2.2 on the cluster using the following steps: 
 - module mpich -3.2 
-- qsub task2.2.pbs 
+- qsub task2.2.pbs<br>
 a task2.2.o file is now created. At the bottom of this file the results of the calculation could be found. 
 
