@@ -13,6 +13,7 @@ The task1.2.pbs file is for running the code on the cluster. In this file it is 
 How to run the code 
 
 I ran task1.1.c on my computer in the terminal using the following steps:
+- cd problem1
 - gcc -o task1.1 task1.1.c
 - ./task1.1<br>
 NB my compiler is Apple clang version 14.0.3, and I have an Apple silicon architecure. 
@@ -37,6 +38,7 @@ The task2.2.pbs file is for running the code on the cluster. In this file it is 
 How to run the code 
 
 I ran task2.1 on my computer in the terminal using the following steps:
+- cd problem 2
 - gcc -o task2.1 task2.1.c
 - ./task2.1<br>
 NB my compiler is Apple clang version 14.0.3, and I have an Apple silicon architecure. 
