@@ -17,7 +17,7 @@ I ran task1.1.c on my computer in the terminal using the following steps:
 - ./task1.1<br>
 NB my compiler is Apple clang version 14.0.3, and I have an Apple silicon architecure. 
 
-In order to run task1.2.pbs the working directory writen in the file must be editied. This is line 35. 
+In order to run task1.2.pbs the working directory written in the file must be editied. This is line 35. 
 I ran task1.2.c on the cluster using the following steps: 
 - module mpich -3.2 
 - qsub task1.2.pbs<br>
@@ -41,7 +41,7 @@ I ran task2.1 on my computer in the terminal using the following steps:
 - ./task2.1<br>
 NB my compiler is Apple clang version 14.0.3, and I have an Apple silicon architecure. 
 
-In order to run task1.2.pbs the working directory writen in the file must be editied. This is line 35.
+In order to run task1.2.pbs the working directory written in the file must be editied. This is line 35.
 I ran task2.2 on the cluster using the following steps: 
 - module mpich -3.2 
 - qsub task2.2.pbs<br>
